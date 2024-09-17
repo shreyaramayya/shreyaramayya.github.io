@@ -1,5 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Shreya Ramayya</title>
@@ -8,9 +7,6 @@
   <link rel="stylesheet" href="assets/semantic.min.css"/>
   <link rel="stylesheet" href="assets/style.css"/>
 </head>
-
-<body>
-
   <!-- header section -->
   <div id="header" class="masthead">
     <div class="ui stackable two column center aligned grid">
@@ -30,7 +26,7 @@
   <div id="contact">
     <div class="ui container">
       <h2 class="ui header">Contact Me</h2>
-      <p>I'd love to get in touch. Drop me an <a href="mailto: shreya_ramayya@brown.edu">email</a></p>
+      <p>I'd love to get in touch. Drop me an <a href="mailto: shreya.ramayya@gmail.com">email</a></p>
       <div id="social" class="ui center aligned container">
         <a href="mailto: shreya.ramayya@gmail.com"><i class="envelope icon"></i></a>
         </div>
@@ -41,5 +37,3 @@
   <script src="assets/scripts.js"></script>
   <script src="https://use.typekit.net/uzm4xnc.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
-</body>
-</html>
