@@ -42,7 +42,7 @@
                     <div class="navbar-collapse collapse order-3" id="navbarRight">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="data/CV.pdf">CV</a>
+                                <a class="nav-link" href="data/resume.pdf">resume</a>
                             </li>
                         </ul>
                     </div>
