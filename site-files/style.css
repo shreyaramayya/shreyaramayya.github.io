@@ -1,0 +1,115 @@
+img.headshot {
+    max-height: 12em;
+}
+
+@media (max-width: 575.9px) {
+
+img.headshot {
+    display: block;
+}
+
+p.first-graf {
+    clear: both;
+}
+
+}
+
+@media (min-width: 576px) {
+
+img.headshot {
+    float: right;
+}
+
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.strike {
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.strike > span {
+    position: relative;
+    display: inline-block;
+}
+
+.strike > span:before,
+.strike > span:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+    height: 1px;
+    background: rgba(0,0,0,.1);
+}
+
+.strike > span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.strike > span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+
+.email:before {
+    content: "shivamn@mit.edu";
+}
+
+code {
+    color: #c7254e;
+/*    background-color: #f9f2f4;*/
+}
+
+a {
+/*    color: #007bff;*/
+    color: #0056b3;
+    text-decoration: none;
+    background-color: transparent
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline
+}
+
+a:not([href]):not([tabindex]) {
+    color: inherit;
+    text-decoration: none
+}
+
+a:not([href]):not([tabindex]):focus,
+a:not([href]):not([tabindex]):hover {
+    color: inherit;
+    text-decoration: none
+}
+
+a:not([href]):not([tabindex]):focus {
+    outline: 0
+}
+
+a.author {
+    color: black!important;
+}
+
+.text-success {
+/*    color: #19692c !important;*/
+    color: #c7254e !important;
+}
+
+a.text-success:focus,
+a.text-success:hover {
+    color: #c7254e !important
+}
