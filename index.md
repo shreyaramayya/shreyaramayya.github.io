@@ -19,8 +19,8 @@
       </div>
       <div id="description" class="ui container column">
         <div id="description-container">
-          <p id="lead">I'm a <strong>first year medical student</strong> at <strong>Brown University</strong>.
-          <p>I've worked at Google, Microsoft, and Curai</p>
+          <p id="lead">I'm a <strong>second year internal medicine resident</strong> at <strong>Cedars-Sinai Medical Center</strong>.
+          <p>I graduated from Brown University and spent some time at Google, Curai, and Microsoft before residency</p>
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@
       <h2 class="ui header">Contact Me</h2>
       <p>I'd love to get in touch. Drop me an <a href="mailto: shreya_ramayya@brown.edu">email</a></p>
       <div id="social" class="ui center aligned container">
-        <a href="mailto: shreya_ramayya@brown.edu"><i class="envelope icon"></i></a>
+        <a href="mailto: shreya.ramayya@gmail.com"><i class="envelope icon"></i></a>
         </div>
     </div>
   </div>
